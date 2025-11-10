@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=binary&color=581845&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=581845&height=120&section=footer"/>
 </p>
 <!--
 **One-010101/One-010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
