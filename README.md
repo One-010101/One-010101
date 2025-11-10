@@ -32,7 +32,7 @@
 ### 📫 Formas de Contato
 
 <p align="center">
-  <a href="linkedin.com/in/pedro-henrique-garcia-10a4a2266">
+  <a href="https://www.linkedin.com/in/pedro-henrique-garcia-10a4a2266/">
     <img src="https://img.shields.io/badge/-LinkedIn-581845?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:pedrohenriquegarcia329@gmail.com">
