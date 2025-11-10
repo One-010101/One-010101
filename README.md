@@ -45,9 +45,9 @@
 ### 📈 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_AQUI]&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=One-010101&show_icons=true&theme=dracula&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME_AQUI]&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=One-010101&layout=compact&theme=dracula"/>
 </div>
 
 ---
