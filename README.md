@@ -21,7 +21,6 @@
 ---
 
 ### 🎯 Áreas de Foco & Estudo
-*(Em vez de 'normas', aqui está o que você *realmente* faz)*
 
 <p align="center">
   • <b>Red Team Operations</b> • <b>Penetration Testing</b> • <b>Malware Analysis</b> •<br>
@@ -33,17 +32,17 @@
 ### 📫 Formas de Contato
 
 <p align="center">
-  <a href="[SEU_LINKEDIN_AQUI]">
+  <a href="linkedin.com/in/pedro-henrique-garcia-10a4a2266">
     <img src="https://img.shields.io/badge/-LinkedIn-581845?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[SEU_EMAIL_AQUI]">
+  <a href="mailto:pedrohenriquegarcia329@gmail.com">
     <img src="https://img.shields.io/badge/-E--mail-581845?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-### 📈 Estatísticas (Dracula Theme)
+### 📈 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_AQUI]&show_icons=true&theme=dracula&count_private=true"/>
